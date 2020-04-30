@@ -1,4 +1,7 @@
 
+// Projeto de estudos - Marcio Winter 
+
+
 //______________________________________ BIBLIOTECAS __________
 #include <Wire.h>
 #include <Thermistor.h>
